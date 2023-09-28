@@ -11,6 +11,8 @@
  *
  * Sample Output:
  * Output: [0, 1, 1, 2, 3]
+ *
+ * Time complexity: O(n)
  */
 
 function Fibonacci(n) {
